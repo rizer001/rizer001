@@ -2,7 +2,7 @@
 
 # Hi, I'm rizer001 👋
 
-**Open-source enthusiast from Russia** 🇷🇺 · building desktop tools in **Rust** & game mods in **Java**
+**Open-source enthusiast from Russia** · building desktop tools in **Rust** & game mods in **Java**
 
 [English](#-english) · [Русский](#-русский)
 
@@ -14,17 +14,17 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
-### 👨‍💻 About me
+### About me
 
-- 🔭 I develop **open-source desktop utilities in Rust** — from an AI-chat coding agent to a nuclear power plant simulator
-- 🎮 Also **Minecraft ecosystem**: server plugin families on Paper and Fabric mods in Java
-- 🌐 Websites on TypeScript/Node.js deployed to Kubernetes
-- 📫 Reach me on **Telegram: [@rizer001](https://t.me/rizer001)** or **Discord DM: @rizer001_dm**
-- 💼 Open to collaboration — most of my work lives in the [0softwaredevelopment0](https://github.com/0softwaredevelopment0) organization
+- I develop **open-source desktop utilities in Rust** — from an AI-chat coding agent to a nuclear power plant simulator
+- Also **Minecraft ecosystem**: server plugin families on Paper and Fabric mods in Java
+- Websites on TypeScript/Node.js deployed to Kubernetes
+- Reach me on **Telegram: [@rizer001](https://t.me/rizer001)** or **Discord DM: @rizer001_dm**
+- Open to collaboration — most of my work lives in the [0softwaredevelopment0](https://github.com/0softwaredevelopment0) organization
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | About | Stack |
 |---|---|---|
@@ -34,9 +34,9 @@
 | [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Nuclear power plant (VVER-1000) control simulator | Rust · egui |
 | [**DirectMessages**](https://github.com/0softwaredevelopment0/DirectMessages) | P2P messenger with end-to-end encryption (Ed25519) | Rust |
 
-➡️ **[See all repositories →](https://github.com/0softwaredevelopment0)** — monitors, autoclickers, soundboards, minesweeper, Fabric mods and more
+**[See all repositories →](https://github.com/0softwaredevelopment0)** — monitors, autoclickers, soundboards, minesweeper, Fabric mods and more
 
-### 🛠 Tech stack
+### Tech stack
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +45,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 📊 GitHub stats
+### GitHub stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=rizer001&theme=radical&no-frame=true&column=7" alt="trophies"/>
 
@@ -57,17 +57,17 @@
 
 ---
 
-## 🇷🇺 Русский
+## Русский
 
-### 👨‍💻 Обо мне
+### Обо мне
 
-- 🔭 Пишу **опенсорсные десктоп-утилиты на Rust** — от AI-чата с функциями кодинг-агента до симулятора АЭС
-- 🎮 А ещё **экосистема Minecraft**: семейства серверных плагинов на Paper и моды на Fabric (Java)
-- 🌐 Сайты на TypeScript/Node.js с деплоем в Kubernetes
-- 📫 Связь — **Telegram: [@rizer001](https://t.me/rizer001)** или **Discord (ЛС): @rizer001_dm**
-- 💼 Открыт к сотрудничеству — почти все проекты живут в организации [0softwaredevelopment0](https://github.com/0softwaredevelopment0)
+- Пишу **опенсорсные десктоп-утилиты на Rust** — от AI-чата с функциями кодинг-агента до симулятора АЭС
+- А ещё **экосистема Minecraft**: семейства серверных плагинов на Paper и моды на Fabric (Java)
+- Сайты на TypeScript/Node.js с деплоем в Kubernetes
+- Связь — **Telegram: [@rizer001](https://t.me/rizer001)** или **Discord (ЛС): @rizer001_dm**
+- Открыт к сотрудничеству — почти все проекты живут в организации [0softwaredevelopment0](https://github.com/0softwaredevelopment0)
 
-### 🚀 Избранные проекты
+### Избранные проекты
 
 | Проект | О чём | Стек |
 |---|---|---|
@@ -77,4 +77,4 @@
 | [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Симулятор управления атомной электростанцией (ВВЭР-1000) | Rust · egui |
 | [**DirectMessages**](https://github.com/0softwaredevelopment0/DirectMessages) | P2P-мессенджер со сквозным шифрованием (Ed25519) | Rust |
 
-➡️ **[Все репозитории →](https://github.com/0softwaredevelopment0)** — мониторы, автокликеры, саундпады, сапёр, Fabric-моды и другое
+**[Все репозитории →](https://github.com/0softwaredevelopment0)** — мониторы, автокликеры, саундпады, сапёр, Fabric-моды и другое
