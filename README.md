@@ -7,7 +7,8 @@
 [English](#-english) · [Русский](#-русский)
 
 [![GitHub Org](https://img.shields.io/badge/Org-0softwaredevelopment0-181717?style=for-the-badge&logo=github)](https://github.com/0softwaredevelopment0)
-[![Telegram](https://img.shields.io/badge/Telegram-@rizer001__dm-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizer001_dm)
+[![Telegram](https://img.shields.io/badge/Telegram-@rizer001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizer001)
+[![Discord](https://img.shields.io/badge/Discord-@rizer001__dm-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
 
 </div>
 
@@ -20,7 +21,7 @@
 - 🔭 I develop **open-source desktop utilities in Rust** — from an AI-chat coding agent to a nuclear power plant simulator
 - 🎮 Also **Minecraft ecosystem**: server plugin families on Paper and Fabric mods in Java
 - 🌐 Websites on TypeScript/Node.js deployed to Kubernetes
-- 📫 Reach me on **Telegram: [@rizer001_dm](https://t.me/rizer001_dm)**
+- 📫 Reach me on **Telegram: [@rizer001](https://t.me/rizer001)** or **Discord DM: @rizer001_dm**
 - 💼 Open to collaboration — most of my work lives in the [0softwaredevelopment0](https://github.com/0softwaredevelopment0) organization
 
 ### 🚀 Featured projects
@@ -63,7 +64,7 @@
 - 🔭 Пишу **опенсорсные десктоп-утилиты на Rust** — от AI-чата с функциями кодинг-агента до симулятора АЭС
 - 🎮 А ещё **экосистема Minecraft**: семейства серверных плагинов на Paper и моды на Fabric (Java)
 - 🌐 Сайты на TypeScript/Node.js с деплоем в Kubernetes
-- 📫 Связь — **Telegram: [@rizer001_dm](https://t.me/rizer001_dm)**
+- 📫 Связь — **Telegram: [@rizer001](https://t.me/rizer001)** или **Discord (ЛС): @rizer001_dm**
 - 💼 Открыт к сотрудничеству — почти все проекты живут в организации [0softwaredevelopment0](https://github.com/0softwaredevelopment0)
 
 ### 🚀 Избранные проекты
