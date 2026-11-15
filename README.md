@@ -30,7 +30,7 @@
 |---|---|---|
 | [**FireCode**](https://github.com/0softwaredevelopment0/FireCode) | Desktop client turning AI chat websites (e.g. DeepSeek) into a coding agent with terminal control — no browser, no API keys | Rust · egui |
 | [**RustLauncher**](https://github.com/0softwaredevelopment0/RustLauncher) | Fast and efficient Minecraft launcher: version catalog, Fabric/Forge, Modrinth `.mrpack` builds | Rust · egui |
-| [**UltimateImprovments**](https://github.com/0softwaredevelopment0/UltimateImprovments) | A huge collection of gameplay features for Paper servers — core + 20 addon modules | Java · Gradle |
+| [**UltimateImprovements**](https://github.com/0softwaredevelopment0/UltimateImprovements) | A huge collection of gameplay features for Paper servers — core + 20 addon modules | Java · Gradle |
 | [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Nuclear power plant (VVER-1000) control simulator | Rust · egui |
 | [**DirectMessages**](https://github.com/0softwaredevelopment0/DirectMessages) | P2P messenger with end-to-end encryption (Ed25519) | Rust |
 
@@ -73,7 +73,7 @@
 |---|---|---|
 | [**FireCode**](https://github.com/0softwaredevelopment0/FireCode) | Десктоп-клиент, превращающий AI-чаты (DeepSeek и др.) в кодинг-агента с управлением терминалом — без браузера и API-ключей | Rust · egui |
 | [**RustLauncher**](https://github.com/0softwaredevelopment0/RustLauncher) | Быстрый и эффективный лаунчер Minecraft: каталог версий, Fabric/Forge, сборки Modrinth `.mrpack` | Rust · egui |
-| [**UltimateImprovments**](https://github.com/0softwaredevelopment0/UltimateImprovments) | Огромная коллекция геймплейных фич для Paper-серверов — ядро + 20 модулей-аддонов | Java · Gradle |
+| [**UltimateImprovements**](https://github.com/0softwaredevelopment0/UltimateImprovements) | Огромная коллекция геймплейных фич для Paper-серверов — ядро + 20 модулей-аддонов | Java · Gradle |
 | [**NPPsim**](https://github.com/0softwaredevelopment0/NPPsim) | Симулятор управления атомной электростанцией (ВВЭР-1000) | Rust · egui |
 | [**DirectMessages**](https://github.com/0softwaredevelopment0/DirectMessages) | P2P-мессенджер со сквозным шифрованием (Ed25519) | Rust |
 
