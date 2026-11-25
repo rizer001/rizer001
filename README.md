@@ -8,7 +8,7 @@
 
 [![GitHub Org](https://img.shields.io/badge/Org-0softwaredevelopment0-181717?style=for-the-badge&logo=github)](https://github.com/0softwaredevelopment0)
 [![Telegram](https://img.shields.io/badge/Telegram-@rizer001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizer001)
-[![Discord](https://img.shields.io/badge/Discord-@rizer001__dm-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-@rizer_001-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
 
 </div>
 
